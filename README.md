@@ -1,2 +1,2 @@
 # StudyPython
-study python with my grilfriend
+just to study python
